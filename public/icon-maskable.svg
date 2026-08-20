@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Munawar">
+  <!-- Maskable: artwork kept inside the safe zone so Android can crop it to any shape -->
+  <rect width="512" height="512" fill="#3f4fb4"/>
+  <path d="M186 150h140a10 10 0 0 1 10 10v208a6 6 0 0 1-8.9 5.3l-22-12a6 6 0 0 0-5.7 0l-22.7 12.4a6 6 0 0 1-5.7 0L248 361.3a6 6 0 0 0-5.7 0L219.6 373a6 6 0 0 1-5.7 0l-22-12A6 6 0 0 1 176 368V160a10 10 0 0 1 10-10z" fill="#ffffff"/>
+  <g fill="#3f4fb4">
+    <rect x="202" y="196" width="108" height="16" rx="8"/>
+    <rect x="202" y="236" width="108" height="16" rx="8"/>
+    <rect x="202" y="276" width="68" height="16" rx="8"/>
+  </g>
+</svg>

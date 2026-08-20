@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Munawar">
+  <rect width="512" height="512" rx="112" fill="#3f4fb4"/>
+  <path d="M160 108h192a12 12 0 0 1 12 12v272a8 8 0 0 1-11.8 7l-30.4-16.6a8 8 0 0 0-7.6 0L284 399a8 8 0 0 1-7.6 0L246 382.4a8 8 0 0 0-7.6 0L208 399a8 8 0 0 1-7.6 0l-30.4-16.6a8 8 0 0 0-7.6 0L148 399a8 8 0 0 1-11.8-7V120a12 12 0 0 1 12-12z" fill="#ffffff"/>
+  <g fill="#3f4fb4">
+    <rect x="180" y="168" width="152" height="20" rx="10"/>
+    <rect x="180" y="220" width="152" height="20" rx="10"/>
+    <rect x="180" y="272" width="96" height="20" rx="10"/>
+  </g>
+</svg>
